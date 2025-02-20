@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"fc33ea6ccd08c23b","type":"text","text":"# Russia (us)\n### Members:\n- Mingchi\n- Farid","x":-180,"y":-200,"width":250,"height":200,"color":"#e3e3e3"},
+		{"id":"87626b0ba015a68e","type":"text","text":"# England\n### Members:\n- Isabel\n- Courtney","x":120,"y":-200,"width":250,"height":200,"color":"#4c00ff"},
+		{"id":"0d2551885e0c986b","type":"text","text":"# Turkey\n### Members:\n- Ria\n- Chid\n- Daniel","x":420,"y":-200,"width":250,"height":240,"color":"1"},
+		{"id":"f71978da16258973","type":"text","text":"# France\n### Members:\n- Asher\n- Ahan","x":720,"y":-200,"width":250,"height":200,"color":"5"},
+		{"id":"daa5c06beaaa6121","type":"text","text":"# Italy\n### Members:\n- Ava\n- Jonathan","x":1020,"y":-200,"width":250,"height":200,"color":"4"},
+		{"id":"9c62cbee457228c1","type":"text","text":"# Austria-Hungary\n### Members:\n- Jayden\n- Jacob","x":1320,"y":-200,"width":300,"height":200,"color":"3"},
+		{"id":"5b430ff2c5c3a06a","type":"text","text":"# Germany\n### Members:\n- Ethan\n- Daphne","x":1680,"y":-200,"width":250,"height":200,"color":"#010101"}
+	],
+	"edges":[]
+}

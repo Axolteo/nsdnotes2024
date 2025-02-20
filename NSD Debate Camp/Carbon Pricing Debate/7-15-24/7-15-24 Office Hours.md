@@ -1,0 +1,4 @@
+- Framework: What happens if there are two different frameworks? Are you able to agree with your opponent's framework instead of your own, or should you argue that your framework is more important?
+- Calling out defense or offense: Is this just for helping the judges follow along or does it also give you an advantage?
+- Flowing sources and citations
+- Lang argument: Summary

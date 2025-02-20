@@ -1,0 +1,5 @@
+# [Evidence Set](https://drive.google.com/drive/folders/1gSV6qwLJOSuwL8_deM1LEZHIvsi2VvA2)
+# [Schedule](https://docs.google.com/spreadsheets/d/1xCvxFXme9stRzbYbpJ0HBciOOq4dNqkXMILz9POa00w/edit)
+# [Labs](https://docs.google.com/spreadsheets/d/1wSUyss1MpNaoNXfOj5rwD0riz0UuQ7ys3oUtZNhxl-I/edit)
+# [Impact Turns](https://docs.google.com/document/d/1OOs8ndV91rRd7dH19VEk0Ko72FbyLvfF/edit)
+# [LogosDebate](https://logos-debate.netlify.app/)

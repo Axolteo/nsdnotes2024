@@ -1,0 +1,10 @@
+# AFF
+## Theory:
+- For the theory shell: When you read theory, there's an implied difference between your opponent doing wrong that made abuse happen in this round and what would go wrong in the abstract if we didn't have the rule. This is the In-round abuse vs norm-setting model theory. In round abuse argues that the only point of theory is to identify abuse in the round, whereas the norm-setting theory shows that the theory shell is supposed to identify the instance of abuse in the round and extrapolate that to debate in the whole. 
+- By using norm-setting, express the impact would occur. Argue that what Ria did was a type of abuse that would be really bad if everyone did it. Universalize the debate. 
+- Remember the RVI -- paradigm issues. Have drop the debater otherwise it doesn't do anything. Justify that your opponent should lose the round, otherwise it's just "there". That's the impact part of an argument -- the implication. 
+- To go against an RVI, you need a counter-interpretation
+- If there's no counter-interpretation, then the AFF can just drop it and the round moves on. If there's an offensive argument, then you have to respond to it. Point out that all the arguments were defensive.
+## Substance:
+- Extra-topicality: any aspect of your advocacy that isn't directly related to the action of the topic. For example, I could affirm and say that my plan is we do a carbon tax with 80$ per ton, and then we adopt all the puppies in the pound. The puppies portion is extra-topical, meaning it's not fair to defend it. In the AFF, you could make the argument that if you do a carbon tax, it makes it possible for a carbon rebate to occur. When the carbon tax was adopted, the money was able to be given back to people in need and help the economy. You could defend that extra-T is good, but that would be relatively unfair. Just change the case enough that that's not an issue for you.
+- Perm the counterplan

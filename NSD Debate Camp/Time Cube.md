@@ -1,0 +1,7 @@
+## The Time Cube's premise is that all modern sciences are participating in a worldwide conspiracy to teach lies by omitting the truth that each day actually consists of four days occurring simultaneously. This far outweighs any other impacts because modern science is trusted by 76% of people ON EARTH (according to pew research), meaning this scope is far larger than any other conspiracy theory. Additionally, the magnitude also outweighs because modern science fuels many industries, and by their plot to stop education and instill fake knowledge in the masses, it will cause extinction. We have guaranteed proof that this is happening, meaning it has a 100% probability and outweighs on timeframe since it's happening right now. It will never be reversible because all of modern science is too far gone. The agenda reaches schools and educators, ensuring our future generations are all brainwashed. 
+# Pigeons are spies for the government
+1. Pigeons are real. Magnitude is big; they're found everywhere. 
+2. Probability is huge; their behavior is weird
+3. Scope is huge because they can go to a lot of places
+4. Reversibility is impossible because can't find them 
+5. Timeframe bc it's hard to identify spyage **no timeframe**

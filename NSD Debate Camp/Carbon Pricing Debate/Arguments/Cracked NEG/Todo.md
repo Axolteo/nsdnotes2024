@@ -1,0 +1,15 @@
+- [ ] Prep
+	- [ ] [[Theory Shells]]
+- [ ] Case
+	- [ ] [[Kritik - Neoliberalism|Kritik - Neoliberalism]]
+		- [ ] Find a good one (~~cap K?~~ easily refutable)
+		- [ ] Prep args or get prewritten
+	- [ ] [[Disad]]
+		- [ ] Inflation disad
+		- [ ] get cards
+		- [ ] tie back to framework and stuff
+	- [ ] [[NC funny]]
+		- [ ] Kantian framework
+		- [ ] Inflation
+		- [ ] Ineffective
+		- [ ] Show how the AFF is morally wrong
